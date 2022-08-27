@@ -1,7 +1,24 @@
-### Hi there 👋
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Hi! I'm Unity Developer lmao
 
+### Technology Stack
+
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
+![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
+![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
+![FLStudio](https://img.shields.io/badge/-FL%20studio%20-090909?style=for-the-badge&logo=Apple%20Music)
+
+### Currently working on:
+Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions"> Factions </a>
+<p> With (surprisingly) factions, wars, farms and super cannons.
+
+### My team:
+<p> GitHub = https://img.shields.io/badge/-DoubleD-090909?style=flat&color=0B2C3D
+<p> YandexGames = https://yandex.com/games/developer?name=DoubleD
+
+### Contact me! 
+<h5> Discord = DARKozDARKA#4148 </h5>
+<h5> Youtube = https://www.youtube.com/channel/UCHzsfWoQ5DAQNDmTir9eWpw </h5>
+<h5> VK = https://vk.com/darkozdarka </h5>
 <!--
 **DARKozDARKA/DARKozDARKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
