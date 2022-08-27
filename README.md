@@ -6,6 +6,7 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
 ![FLStudio](https://img.shields.io/badge/-FL%20studio%20-090909?style=for-the-badge&logo=Apple%20Music)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
 ### Currently working on:
 Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions"> Factions </a>
