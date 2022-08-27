@@ -1,4 +1,4 @@
-## Hi! I'm Unity Developer lmao
+## Hi! I'm Unity Developer lol
 
 ### Technology Stack
 
