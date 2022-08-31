@@ -17,7 +17,7 @@
 ![Technology](https://img.shields.io/badge/-Reflection-090909?style=for-the-badge)
 
 ### Currently working on:
-Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions"> Factions </a> with <i>surprisingly</i> factions, wars, farms and super cannons.
+Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions"> Factions </a> with <i>surprisingly</i> factions, wars, farms and super cannons
 
 ### My team:
 - <p> GitHub = https://github.com/NTODoubleD
