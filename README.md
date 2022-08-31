@@ -20,7 +20,7 @@
 Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions"> Factions </a> with <i>surprisingly</i> factions, wars, farms and super cannons.
 
 ### My team:
-- <p> GitHub = https://img.shields.io/badge/-DoubleD-090909?style=flat&color=0B2C3D
+- <p> GitHub = https://github.com/NTODoubleD
 - <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
 
 ### Contact me! 
