@@ -15,6 +15,7 @@
 ![Technology](https://img.shields.io/badge/-Odin-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Async-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Reflection-090909?style=for-the-badge)
+![Technology](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge)
 
 ### Currently working on:
 Sandbox simulator <a href = "https://github.com/DARKozDARKA/Factions" > Factions </a> with <i>surprisingly</i> factions, wars, farms and super cannons
