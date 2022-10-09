@@ -16,6 +16,8 @@
 ![Technology](https://img.shields.io/badge/-Async-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-UniRx-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge)
+![Technology](https://img.shields.io/badge/-UniRx-090909?style=for-the-badge)
+![Technology](https://img.shields.io/badge/-Entitas-090909?style=for-the-badge)
 
 ### Currently working on:
 TowerDudes (Private repo)
