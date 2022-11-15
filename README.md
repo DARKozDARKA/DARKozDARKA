@@ -18,6 +18,14 @@
 ![Technology](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Entitas-090909?style=for-the-badge)
 
+### Principles 
+![Principle](https://img.shields.io/badge/-SOLID-090909?style=for-the-badge)
+![Principle](https://img.shields.io/badge/-GRASP-090909?style=for-the-badge)
+![Principle](https://img.shields.io/badge/-KISS-090909?style=for-the-badge)
+![Principle](https://img.shields.io/badge/-DRY-090909?style=for-the-badge)
+![Principle](https://img.shields.io/badge/-LOD-090909?style=for-the-badge)
+
+
 ### Currently working on:
 TowerDudes (Private repo)
 
