@@ -32,6 +32,7 @@ TowerDudes (Private repo)
 ### My team:
 - <p> GitHub = https://github.com/NTODoubleD
 - <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
+- <p> Doom for Grandma ("Silly hat" nomination winner)= https://itch.io/jam/sibgamejam-nov-2022/rate/1780419
 
 ### Contact me:
 - <h5> Discord = DARKozDARKA#4148 </h5>
