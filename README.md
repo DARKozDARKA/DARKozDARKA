@@ -39,7 +39,7 @@ TowerDudes (Private repo)
 - <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
 - <p> Space Woman (not finished, made in month) = https://youtu.be/wOAGfuZ7m5Y
 - <p> Crazy Market (made in 3 days) = https://youtu.be/W5lYZKV8HGA
-- <p> Spectral War (solo) = https://youtu.be/oQQLmFkm0ow
+- <p> Spectral War (solo) = https://youtu.be/4iLue_4h4wQ
 
   
 ### Contact me:
