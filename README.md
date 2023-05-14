@@ -27,7 +27,7 @@
 
 
 ### Currently working on:
-T.O.R.T.U.G.A. (https://vk.com/tortugapirates)
+Cerebral Paralysis
 
 ### My team:
 - <p> GitHub = https://github.com/NTODoubleD
