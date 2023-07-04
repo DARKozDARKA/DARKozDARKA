@@ -1,4 +1,4 @@
-## Hi! I'm Game Developer :D
+## Hi! I'm a Game Developer :D
 
 ### Technology Stack
 
