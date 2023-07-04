@@ -29,11 +29,6 @@
 ### Currently working on:
 Cerebral Paralysis
 
-### My team:
-- <p> GitHub = https://github.com/NTODoubleD
-- <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
-
-
 ### My games:
 - <p> Doom for Grandma ("Silly hat" nomination winner) = https://itch.io/jam/sibgamejam-nov-2022/rate/1780419 (https://youtu.be/YFmkGZuaw8Y)
 - <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
