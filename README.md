@@ -27,7 +27,7 @@
 
 
 ### Currently working on:
-Cerebral Paralysis
+Cerebral Paralysis (https://github.com/DARKozDARKA/Cerebral-Paralysis-v2)
 
 ### My games:
 - <p> Doom for Grandma ("Silly hat" nomination winner) = https://itch.io/jam/sibgamejam-nov-2022/rate/1780419 (https://youtu.be/YFmkGZuaw8Y)
