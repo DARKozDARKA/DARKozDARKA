@@ -34,7 +34,7 @@
 
 
 ### Currently working on:
-Cerebral Paralysis (https://github.com/DARKozDARKA/Cerebral-Paralysis-v2)
+Anathema's Symphony
 
 ### My games:
 - <p> Doom for Grandma ("Silly hat" nomination winner) = https://itch.io/jam/sibgamejam-nov-2022/rate/1780419 (https://youtu.be/YFmkGZuaw8Y)
