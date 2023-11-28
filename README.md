@@ -38,7 +38,6 @@ Anathema's Symphony
 
 ### My games:
 - <p> Doom for Grandma ("Silly hat" nomination winner) = https://itch.io/jam/sibgamejam-nov-2022/rate/1780419 (https://youtu.be/YFmkGZuaw8Y)
-- <p> YandexGames = https://yandex.com/games/developer?name=DoubleD
 - <p> Space Woman (not finished, made in month) = https://youtu.be/wOAGfuZ7m5Y
 - <p> Crazy Market (made in 3 days) = https://youtu.be/W5lYZKV8HGA
 - <p> Spectral War (solo) = https://youtu.be/4iLue_4h4wQ
