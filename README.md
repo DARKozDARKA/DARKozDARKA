@@ -12,10 +12,11 @@
 ![FLStudio](https://img.shields.io/badge/-FL%20studio%20-090909?style=for-the-badge&logo=Apple%20Music)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
-### Unreal Engine & C++ Specific
+### Unreal Engine
 ![Technology](https://img.shields.io/badge/-Blueprints-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Niagara-090909?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/-Behaviour_Tree-090909?style=for-the-badge)
+![Technology](https://img.shields.io/badge/-C++-090909?style=for-the-badge)
 
 ### Unity & C# Specific 
 
