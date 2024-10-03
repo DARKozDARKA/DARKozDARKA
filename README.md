@@ -5,8 +5,9 @@
 ![Unreal](https://img.shields.io/badge/-Unreal_Engine-090909?style=for-the-badge&logo=unrealengine)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
-![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplu2s)
+![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=sh2arp)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
 ![FLStudio](https://img.shields.io/badge/-FL%20studio%20-090909?style=for-the-badge&logo=Apple%20Music)
