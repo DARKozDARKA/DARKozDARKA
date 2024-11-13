@@ -36,7 +36,7 @@
 
 
 ### Currently working on:
-Anathema's Symphony
+Anathema's Symphony - https://store.steampowered.com/app/3292500/Anathemas_Symphony/?beta=0
 
 ### My games:
 - <p> Doom for Grandma ("Silly hat" nomination winner) = https://itch.io/jam/sibgamejam-nov-2022/rate/1780419 (https://youtu.be/YFmkGZuaw8Y)
